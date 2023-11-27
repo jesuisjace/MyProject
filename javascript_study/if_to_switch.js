@@ -9,5 +9,5 @@ switch (a) {
     case 2:
     case 3:
         alert ('2,3');
-        break;
+        break; // case 가 더 없다면 없어도 됨
 }
